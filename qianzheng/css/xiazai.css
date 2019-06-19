@@ -1,0 +1,60 @@
+
+
+
+/* 第一行 */
+#diyihang{
+margin-top: 50px;
+}
+
+
+
+/* 第二行  咨询内容 */
+#zxneirong{
+	margin-top: 10px;
+}
+.zixuenneirong1{
+	margin-top: 50px;
+}
+
+
+
+.zxtupian{
+	width: 100%;
+}
+
+	/* 新闻题目 */
+.xinwentimu{
+	color:black;
+}
+.xinwentimu:hover{
+	color:#0ba1e4;
+}
+
+
+/* 免费下载 */
+.mianfeixiazai{
+	border-radius: 5px;
+	border: lightseagreen solid 1px;
+	background-color: white;
+	color: lightseagreen;
+}
+.mianfeixiazai:hover{
+	border: lightseagreen solid 1px;
+	background-color: lightseagreen;
+	color: white;
+}
+/* 横线 */
+.heixian{
+	border-bottom: slategray solid 1px;
+	margin-top: 150px;
+}
+
+
+	a{
+		text-decoration:none; 
+	}
+	a:hover{
+		text-decoration:none; 
+	}
+	
+	

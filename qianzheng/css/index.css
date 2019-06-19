@@ -1,0 +1,286 @@
+	.shu{
+				color: turquoise;
+				font-size: 70px;
+			}
+			.yousfk:hover{background-color: blue;}
+			
+			
+			
+			/* 我们的优势 图片 */
+			.glyphicon{
+				font-size: 70px;
+				color: #337AB7;
+			}
+			.glyphicon:hover{
+				color: white;
+			}
+			
+			.youshi{				
+				background-color: white;
+				font-size: 15px;
+			}
+			.youshi:hover{				
+				color: white;
+				background-color:  #337AB7;
+			}
+			.youshi:hover p{				
+				color: white;
+				background-color:  #337AB7;
+			}
+			
+			/* 我们的服务 */
+			p{
+				margin-top: 25px;
+			}
+			
+			.heixian{
+				border: #000000 solid 1px
+			}
+			
+			.card-item{
+				display: inline-block;
+				width: 250px;
+				/* border: red solid 1px; */
+			} 
+			
+			h4{
+				padding-top: 30px;
+			}
+			
+			.card-item{
+				display: inline-block;
+				width: 270px;
+				height: 500px;
+				border: black solid 1px;
+				padding-top: 50px;
+				
+			}
+			/* li 内容框 */
+		/* 	li:hover{
+				background-color:#337AB7 ;
+				color: white;
+			} */
+			/* 外盒 */
+			.waihe{
+				width: 300px;
+				height: 550px;
+			      display: inline-block;
+				/* border: red solid 1px; */
+				
+			}
+			.neihe{
+				width: 230px;
+				height: 450px;
+				border: black solid 1px;
+			}		
+			.neihe:hover{
+				width: 300px;
+				height: 550px;
+				background-color:#337AB7 ;
+				color: white;
+			}	
+		
+			.neihe:hover a{
+				background-color:#337AB7 ;
+				color: white;
+				border: white solid 1px;
+			}	
+		
+
+			/* 按钮 */
+		.btn-outline-blue{
+				border:#337AB7 solid 1px ;
+				
+			}
+		  .btn-outline-blue:hover{
+				border:white solid 1px ;
+				color: white;
+			}
+			
+			.chafuwu{
+				width: 200px;
+				height: 50px;
+				border:#337AB7 solid 1px ;
+				background-color: white;
+				margin-top: 100px;
+				
+			}
+			.chafuwu:hover{
+				background-color: #337AB7;
+				color: white;
+			}
+			
+			/* 客户的鼓励 */
+			/* .lvyuan1{
+				border: green solid 1px;
+			} */
+			
+		/* 	p {
+				display: block;
+				margin-block-start: 1em;
+				margin-block-end: 1em;
+				margin-inline-start: 0px;
+				margin-inline-end: 0px;
+			} */
+			
+			/* 评价 */
+			.pj{
+				margin-top: 50px;
+			}	
+			.pj2{
+				margin-top: 50px;
+				border: green solid 1px;
+			}
+			
+			.touxiang1{
+				width: 50px;
+				height: 50px;
+				border-radius: 50px;
+				
+				margin-top: -25px;
+			}
+			.touxiang2{
+				width: 50px;
+				height: 50px;
+			    border-radius: 50px;
+			}
+			/* 地址图标 */
+			.glyphicon-map-marker{
+				font-size: 15px;
+				color: silver;
+				width: 15px;
+				height: 15px;
+				/* border: blue solid 1px; */
+				margin-top: 0px;
+			}
+			
+			.col-sm-1{
+				margin-left: 5px;
+			}
+		   /* 地址图标 字 */
+		     .col-xs-8{
+				 color: white;
+				 background-color: silver;
+				 font-size: 12px;
+			 }
+			  .col-xs-4{
+				 color: silver;
+				 font-size: 13px;
+				 float: right;
+			 }
+			/* 绿圆 */
+
+			.lvyuan2{
+				border: green solid 1px;
+				width: 100px;
+				height: 100px;
+				border-radius: 100px;
+				font-weight: bold;
+				font-size: 50px;
+				color: green;
+			}
+			
+			/* 美国签证最新资讯 */
+			/* .zixuen2{
+				
+			} */
+			/* 美国签证最新资讯 内容 图 */
+			.tu{
+				width: 100px;
+				height: 80px; 
+				padding-top: 3px;
+			}
+			.tukuang{
+				width: 110px;
+				height: 85px; 
+				border: white solid 1px;				
+			}
+			.tukuang:hover{
+				border: blue solid 1px;				
+			}
+			
+			/* 新闻题目 */
+			.xinwentimu{
+				color: #00FFFF;
+			}
+		  .xinwentimu:hover{
+				color:#0ba1e4;
+				font-weight: bold;
+				font-size: 20px;
+			}
+			
+	/* 我们的客户 */
+			/* 更多咨询 */
+			.gengduozx{
+				font-size: 25px;
+			}
+			
+			/* 商标图 */
+			.shangbiaotu{
+				width: 100px;
+				height: 60px;
+			}
+			
+			/* .shangbiaokuang{
+				margin-right: 150px;
+			} */
+		
+		/* 下方底部1 */
+		.dibubiaoti{		 	
+			color: white;
+		}
+		.dibu a{
+			color: white;
+		}
+		.dibu{
+			margin-top: 15px;
+			color: white;
+		}
+		/* 底部边框 */
+	/* 	.dibubiankuang{
+		border: blue solid 2px;
+		} */
+		/* 二维码 */
+		.erweima1{
+			width: 100px;
+			height: 100px;
+			border: aqua solid 1px;
+			margin-top: 40px;
+		}
+	   .erweima2{
+			width: 100px;
+			height: 100px;
+		
+		}
+		/* 圆图 */
+		.yuantu1{
+			width: 50px;
+			height: 50px;
+			border-radius: 50px;
+			border: white solid 2px;
+		}
+		.yuantu2{
+			font-size: 20px;
+			color: white;
+			line-height: 50px;
+		}
+			
+		.col-xs-4{
+			border: red solid 1px;font-size: 25px;color: white;
+			margin-top: 18px;
+		}
+		.col-xs-8{
+			margin-top: 10px;
+		}
+		/* 商标变色 */
+		.bianbai:hover{
+			background-color: white;
+		}
+		
+		
+	#guli{
+		background-color: silver;
+	}
+   #kehu{
+		background-color: silver;
+	}

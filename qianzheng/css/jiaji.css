@@ -1,0 +1,214 @@
+	.shu{
+				color: turquoise;
+				font-size: 70px;
+			}
+			.yousfk:hover{background-color: blue;}
+			
+			
+			/* 外盒 */
+			.waihe{
+				width: 300px;
+				height: 550px;
+			      display: inline-block;		
+			}
+				
+		
+		/* 对话框 */
+		.duihuanzi1{
+			color: blue;
+		}
+		/* 横线 */
+		.hengxian{
+			border-bottom: #0000FF solid 2px;
+			width: 100px;
+		}
+		.well{
+			margin-top: 20px;
+			background-color: white;
+		}
+		.hui{
+			background-color: silver;
+		}
+		
+		/* 流程图 */
+		.liouchengtu{
+			background-color: #0BA1E4;
+			font-size: 20px;
+			color: white;
+			height: 80px;
+			line-height: 80px;
+		}
+		
+		/* 背景图 */
+		.beijing{
+			background-image: url('urgent_chat.jpg');
+		}
+		/* 流程字 */
+		.liouchengzi{
+			margin-top: -450px;
+			margin-left: 300px;
+		}
+		.liouchengzi1{
+			font-size: 25px;
+			color: thistle;
+		}
+		.liouchengzi2{
+			font-size: 20px;
+			color: silver;
+		  }
+		  
+		  
+			/* 按钮 */
+		.btn-outline-blue{
+				border:#337AB7 solid 1px ;
+				
+			}
+		  .btn-outline-blue:hover{
+				border:white solid 1px ;
+				color: white;
+			}
+			
+			.chafuwu{
+				width: 200px;
+				height: 50px;
+				border:#337AB7 solid 1px ;
+				background-color: white;
+				margin-top: 100px;
+				
+			}
+			.chafuwu:hover{
+				background-color: #337AB7;
+				color: white;
+			}
+				
+			/* 客户的鼓励 */
+			.col-md-2{
+				border: green solid 1px;
+			}		
+			/* 评价 */
+			.pj{
+				margin-top: 50px;
+			}
+			.touxiang1{
+				width: 50px;
+				height: 50px;
+				border-radius: 50px;
+				border: black solid 1px;
+				margin-top: -25px;
+			}
+			.touxiang2{
+				width: 50px;
+				height: 50px;
+			    border-radius: 50px;
+			}
+			/* 地址图标 */
+			.glyphicon-map-marker{
+				font-size: 15px;
+				color: silver;
+				width: 15px;
+				height: 15px;
+				border: blue solid 1px;
+				margin-top: 0px;
+			}
+			
+			.col-sm-1{
+				margin-left: 5px;
+			}
+		   /* 地址图标 字 */
+		     .col-xs-8{
+				 color: white;
+				 background-color: silver;
+				 font-size: 12px;
+			 }
+			  .col-xs-4{
+				 color: silver;
+				 font-size: 13px;
+				 float: right;
+			 }
+			/* 绿圆 */
+			.lvyuan2{
+				border: green solid 1px;
+				width: 100px;
+				height: 100px;
+				border-radius: 100px;
+				font-weight: bold;
+				font-size: 50px;
+				color: green;
+			}
+			
+		
+	/* 我们的客户 */
+			/* 更多咨询 */
+			.gengduozx{
+				font-size: 25px;
+			}
+			
+			/* 商标图 */
+			.shangbiaotu{
+				width: 100px;
+				height: 60px;
+			}
+			
+			/* .shangbiaokuang{
+				margin-right: 150px;
+			} */
+		
+		/* 下方底部1 */
+		.dibubiaoti{		 	
+			color: white;
+		}
+		.dibu a{
+			color: white;
+		}
+		.dibu{
+			margin-top: 15px;
+			color: white;
+		}
+		/* 底部边框 */
+	/* 	.dibubiankuang{
+		border: blue solid 2px;
+		} */
+		/* 二维码 */
+		.erweima1{
+			width: 100px;
+			height: 100px;
+			border: aqua solid 1px;
+			margin-top: 40px;
+		}
+	   .erweima2{
+			width: 100px;
+			height: 100px;
+		
+		}
+		/* 圆图 */
+		.yuantu1{
+			width: 50px;
+			height: 50px;
+			border-radius: 50px;
+			border: white solid 2px;
+		}
+		.yuantu2{
+			font-size: 20px;
+			color: white;
+			line-height: 50px;
+		}
+			
+		.col-xs-4{
+			border: red solid 1px;font-size: 25px;color: white;
+			margin-top: 18px;
+		}
+		.col-xs-8{
+			margin-top: 10px;
+		}
+		/* 商标变色 */
+		.bianbai:hover{
+			background-color: white;
+		}
+		
+		
+	#guli{
+		background-color: silver;
+	}
+   #kehu{
+		background-color: silver;
+	}

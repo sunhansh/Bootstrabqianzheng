@@ -1,0 +1,49 @@
+
+/* 第一行 */
+#diyihang{
+margin-top: 50px;
+}
+
+/* 内容行 */
+#neirong1{
+	background-color: silver;
+}
+
+.biaoti{
+	text-decoration:none; 
+	color: black;
+}
+.biaoti:hover{
+	text-decoration:none; 
+	color: darkblue;
+}
+/* 虚线 */
+.xuxian{
+	border-bottom: #000000 dashed  2px;
+}
+
+/* 横线 */
+.heixian{
+	border-bottom: slategray solid 1px;
+	margin-top: 320px;
+}
+
+/* 查看详情 */
+.chakanxiangqing{
+	border-radius: 5px;
+	border: orange solid 1px;
+	background-color: white;
+	color: orange;
+}
+.chakanxiangqing:hover{
+	border: orange solid 1px;
+	background-color: orange;
+	color: white;
+}
+
+
+/* 书 */
+.shu{
+	width: 200px;
+	/* height: 260px; */
+}
